@@ -23,3 +23,9 @@ yarn-error.log*
 pids
 *.pid
 *.seed
+
+## Directories ##
+
+client/.next
+client/node_modules
+server/node_modules

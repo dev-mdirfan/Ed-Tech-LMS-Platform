@@ -1,5 +1,8 @@
 # Ed Tech LMS Platform
 
+<!-- Preview the project [here](https://ed-tech-lms-platform.vercel.app/) -->
+Preview the project [here](https://elearninglms.netlify.app/)
+
 ## Tech Stack Used
 
 1. Next.js

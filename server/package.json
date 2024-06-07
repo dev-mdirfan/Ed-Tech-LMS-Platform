@@ -12,7 +12,7 @@
     "start":"node build/server.js",    
     "build":"tsc"
   },
-  "author": "EC & SPM Project",
+  "author": "Mohd Irfan",
   "license": "ISC",
   "dependencies": {
     "@types/bcryptjs": "^2.4.2",
